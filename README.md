@@ -29,4 +29,4 @@ LU decomposition method, Inverse matrix solving method, QR decomposition for Eig
 Numerical differentiation method(forward divided method, backward divided method, center divided method),<br>
 Numerical integral method(Trapezoidal rule, Simpson method),<br>
 Ordinary differential equation method(Euler method, Runge–Kutta method),<br>
-Digital signal processing(DFT, FFT(Culey-Tukey Algorithm))
+Digital signal processing(DFT, FFT(Culey-Tukey Algorithm))_
