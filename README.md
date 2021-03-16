@@ -23,7 +23,7 @@
 
 ## myMath.cpp
 
-**Description** : There are engineering mathematics method functions.<br>
+**Description** : There are numerical methods of engineering mathematics functions.<br>
 **Contents** : <br>
 _Bisection method, Newton-Raphson method, Gauss Elimination method, Gauss-Jordan Elimination method,<br>
 LU decomposition method, Inverse matrix solving method, QR decomposition for Eigenvalues and Eigenvector,<br>
