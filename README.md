@@ -1,12 +1,12 @@
 # NumericalMethod
 
-Version : c++17<br>
-IDE : Visual Studio 2017<br>
-Author : Titus Choi<br>
-Description : This is a private library for engineering mathematics.<br>
-Main source file : myMain.cpp<br>
-Header files : myComplex.cpp, myMath.cpp, myMatrix.cpp<br>
-Source files : myComplex.h,   myMath.h,   myMatrix.h<br>
+**Version** : c++17<br>
+**IDE** : Visual Studio 2017<br>
+**Author** : Titus Choi<br>
+**Description** : This is a private library for engineering mathematics.<br>
+**Main source file** : myMain.cpp<br>
+**Header files** : myComplex.cpp, myMath.cpp, myMatrix.cpp<br>
+**Source files** : myComplex.h,   myMath.h,   myMatrix.h<br>
 <br>
 <br>
 ## myMain.cpp
@@ -24,7 +24,7 @@ Source files : myComplex.h,   myMath.h,   myMatrix.h<br>
 ## myMath.cpp
 
 **Description** : There are engineering mathematics method functions.<br>
-**contents** : <br>
+**Contents** : <br>
 _Bisection method, Newton-Raphson method, Gauss Elimination method, Gauss-Jordan Elimination method,<br>
 LU decomposition method, Inverse matrix solving method, QR decomposition for Eigenvalues and Eigenvector,<br>
 Numerical differentiation method(forward divided method, backward divided method, center divided method),<br>
