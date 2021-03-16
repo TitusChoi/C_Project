@@ -18,7 +18,7 @@ Source files : myComplex.h,   myMath.h,   myMatrix.h<br>
 
 ## myMatrix.cpp
 
-**Description** : This is matrix functions.<br>
+**Description** : There are matrix functions.<br>
 
 ## myMath.cpp
 
