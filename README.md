@@ -28,6 +28,6 @@
 _Bisection method, Newton-Raphson method, Gauss Elimination method, Gauss-Jordan Elimination method,<br>
 LU decomposition method, Inverse matrix solving method, QR decomposition for Eigenvalues and Eigenvector,<br>
 Numerical differentiation method(forward divided method, backward divided method, center divided method),<br>
-Numerical integral method(Trapezoidal rule, Simpson method),<br>
+Numerical integration method(Trapezoidal rule, Simpson method),<br>
 Ordinary differential equation method(Euler method, Runge–Kutta method),<br>
 Digital signal processing(DFT, FFT(Cooley-Tukey Algorithm))_
