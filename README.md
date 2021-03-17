@@ -25,9 +25,14 @@
 
 **Description** : There are numerical methods of engineering mathematics.<br>
 **Contents** : <br>
-_Bisection method, Newton-Raphson method, Gauss Elimination method, Gauss-Jordan Elimination method,<br>
-LU decomposition method, Inverse matrix solving method, QR decomposition for Eigenvalues and Eigenvector,<br>
-Numerical differentiation method(forward divided method, backward divided method, center divided method),<br>
-Numerical integration method(Trapezoidal rule, Simpson method),<br>
-Ordinary differential equation method(Euler method, Runge–Kutta method),<br>
-Digital signal processing(DFT, FFT(Cooley-Tukey Algorithm))_
+1. Bisection method
+2. Newton-Raphson method
+3. Gauss Elimination method
+4. Gauss-Jordan Elimination method
+5. LU decomposition method
+6. Inverse matrix solving method
+7. QR decomposition for Eigenvalues and Eigenvector
+8. Numerical differentiation method(forward divided method, backward divided method, center divided method)
+9. Numerical integration method(Trapezoidal rule, Simpson method)
+10. Ordinary differential equation method(Euler method, Runge–Kutta method)
+11. Digital signal processing(DFT, FFT(Cooley-Tukey Algorithm))
