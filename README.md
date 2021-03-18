@@ -32,7 +32,8 @@
 5. LU decomposition method
 6. Inverse matrix solving method
 7. QR decomposition for Eigenvalues and Eigenvector
-8. Numerical differentiation method(forward divided method, backward divided method, center divided method)
-9. Numerical integration method(Trapezoidal rule, Simpson method)
-10. Ordinary differential equation method(Euler method, Runge–Kutta method)
-11. Digital signal processing(DFT, FFT(Cooley-Tukey Algorithm))
+8. Linear polynomial regression method
+9. Numerical differentiation method(forward divided method, backward divided method, center divided method)
+10. Numerical integration method(Trapezoidal rule, Simpson method)
+11. Ordinary differential equation method(Euler method, Runge–Kutta method)
+12. Digital signal processing(DFT, FFT(Cooley-Tukey Algorithm))
