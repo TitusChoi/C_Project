@@ -1,7 +1,7 @@
 # NumericalMethod
 
 **Version** : c++17<br>
-**IDE** : Visual Studio 2017<br>
+**IDE** : Visual Studio 2019<br>
 **Author** : Titus Choi<br>
 **Description** : This is a private library for engineering mathematics.<br>
 **Main source file** : myMain.cpp<br>
