@@ -1,4 +1,4 @@
-# NumericalMethod
+# Numerical Method
 
 **Version** : c++17<br>
 **IDE** : Visual Studio 2019<br>
