@@ -2,7 +2,7 @@
 
 **Version** : c++17<br>
 **Author** : Titus Choi<br>
-**Description** : This is a private library for engineering mathematics.<br>
+**Description** : The Numerical Method Library (NM) is a self-contained C++ library for engineering mathematics.<br>
 **Main source file** : myMain.cpp<br>
 **Header files** : myComplex.cpp, myMath.cpp, myMatrix.cpp<br>
 **Source files** : myComplex.h,   myMath.h,   myMatrix.h<br>
