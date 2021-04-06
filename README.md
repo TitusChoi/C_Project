@@ -2,7 +2,7 @@
 
 **Version** : c++17<br>
 **Author** : Titus Choi<br>
-**IDE** : Microsoft Visual Studio Community 2017<br>
+**IDE** : Microsoft Visual Studio Community 2019<br>
 **Description** : The Numerical Method Library (NM) is a self-contained C++ library for engineering mathematics.<br>
 **Main source file** : myMain.cpp<br>
 **Header files** : myComplex.cpp, myMath.cpp, myMatrix.cpp<br>
