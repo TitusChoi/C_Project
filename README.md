@@ -1,4 +1,4 @@
-# Numerical Method [![Build Status][travis-image]][travis-url]
+# Numerical Method [![Build Status]
 The Numerical Method Library (NM) is a self-contained C++ library for engineering mathematics.
 
 ## Installation
@@ -31,5 +31,3 @@ myMatrix.h : It works as a header file of 'myMatrix.cpp'.
 
 
 <!-- Markdown link & img dfn's -->
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
