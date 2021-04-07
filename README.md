@@ -1,4 +1,4 @@
-# Numerical Method [![Build Status]
+# Numerical Method
 The Numerical Method Library (NM) is a self-contained C++ library for engineering mathematics.
 
 ## Installation
