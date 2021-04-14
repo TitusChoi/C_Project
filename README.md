@@ -11,8 +11,8 @@ myMain.cpp : This is a main function file for packages.<br>
 myComplex.cpp : Complex functions are implemented.<br>
 myMath.cpp : Numerical Linear Algebra functions are implemented.<br>
 myMatrix.cpp : Matrix functions are implemented.<br>
-myComplex.h : It works as a header file of 'myComplex.cpp'.
-myMath.h : It works as a header file of 'myMath.cpp'.
+myComplex.h : It works as a header file of 'myComplex.cpp'.<br>
+myMath.h : It works as a header file of 'myMath.cpp'.<br>
 myMatrix.h : It works as a header file of 'myMatrix.cpp'.
 
 ## Contents
